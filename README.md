@@ -9,7 +9,7 @@ This cookbook has been tested on CentOS and RHEL version 6.4.
 
 # Attributes
 
-* `node['etc_environment'] - a hash of environment variables, e.g.
+* `node['etc_environment']` - a hash of environment variables, e.g.
 
 ```
 {
