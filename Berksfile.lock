@@ -1,0 +1,7 @@
+{
+  "sources": {
+    "etc_environment": {
+      "path": "."
+    }
+  }
+}
