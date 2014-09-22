@@ -16,3 +16,8 @@ suites:
     etc_environment:
       DB_HOST: localhost
       DB_PORT: 3306
+      SOME_JSON:
+        a: 1
+        b: "2"
+        c:
+          d: three
