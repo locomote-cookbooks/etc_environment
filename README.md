@@ -22,6 +22,7 @@ This cookbook has been tested on CentOS and RHEL version 6.4.
 
 Just include `recipe[etc_environment]` in your run_list.
 
+
 # License and Author
 Author:: Chris (<chris@locomote.com>)
 
